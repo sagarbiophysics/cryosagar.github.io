@@ -27,6 +27,8 @@ Work experience
 
 Publications
 ======
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=KYEJ7WkAAAAJ)
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
