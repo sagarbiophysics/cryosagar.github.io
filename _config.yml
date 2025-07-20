@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Sagar Khavnekar"
 title_separator          : "-"
-name                     : &name "Computational Microscopist"
-description              : &description "The RNA Cartography Lab"
+name                     : &name "Sagar Khavnekar"
+description              : &description "Computational Microscopist"
 url                      : https://cryosagar.openemage.org # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sagarbiophysics/cryosagar.github.io"
@@ -23,10 +23,10 @@ repository               : "sagarbiophysics/cryosagar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sagar Khavnekar"
+  name             : "Computational Microscopist"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Microscopist | in situ Structural Systems Biologist"
-  location         : "s-Hertogenbosch, The Netherlands"
+  bio              : "_RNA Cartography_"
+  location         : "The Netherlands"
   employer         : # Employer name,
   uri              : # URL
   email            : # email address
