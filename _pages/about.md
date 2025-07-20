@@ -15,7 +15,7 @@ I am transitioning towards an independent academic career, establishing the RNA 
 
 The unconventional path of my career bridging physics, biology, computational and technological innovation, and industry collaboration has uniquely prepared me for scientific leadership. I am committed to build dynamic research communities and continue developing enabling technologies to visualize and understand RNA life cycle at the molecular and systems scale. 
 
-RNA Cartography Lab and Open Science Initiatives
+The RNA Cartography Lab
 ======
 Driven by my experience with large-scale collaborative visual proteomics projects including pioneering community-driven datasets such as the Chlamydomonas reinhardtii visual proteomics dataset I am establishing the RNA Cartography Lab. This initiative will leverage modular, scalable, and collaborative approaches to uncover the complexity of the mRNA lifecycle, positioning itself at the intersection of computational biology, in situ structural biology, and systems biology.
 
