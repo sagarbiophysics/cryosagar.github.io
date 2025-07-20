@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<!--
 {% include base_path %}
+-->
 
 Education
 ======
@@ -29,6 +31,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -40,6 +43,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
