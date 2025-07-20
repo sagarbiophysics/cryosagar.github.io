@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Visualizing Life with Computational Microscopy"
+title: "Mapping The mRNA Life Cycle with Computational Microscopy"
 author_profile: true
 redirect_from: 
   - /about/
