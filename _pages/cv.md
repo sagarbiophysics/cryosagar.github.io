@@ -18,9 +18,10 @@ Education
   _Master’s thesis with Dr. Madhusoodan Hosur._
 * **B.Sc., Physics**, University of Mumbai, India, 2009–2012
 
-Work experience
+Research experience
 ======
 * **Scientist, Cryo-Electron Tomography, 4D-STEM, and cryo-FIB-SEM**, Thermo Fisher Scientific, Eindhoven, The Netherlands, 2023–present
+* **Graduate Researcher**, Department of Molecular Structural Biology & Cryo-EM Technology Group, Max Planck Institute of Biochemistry, Martinsried, Germany, 2018–2023  
 * **Research Assistant**, Department of Molecular Biology, University of Geneva, Switzerland, 2016–2018  
   _Supported by Swiss Government Excellence Fellowship._
 * **Research Assistant**, UM-DAE Centre for Excellence in Basic Sciences, Mumbai, India, 2014–2016
