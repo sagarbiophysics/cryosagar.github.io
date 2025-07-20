@@ -13,14 +13,14 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Structural Systems Biology**, International Max Planck Research School Life Sciences, Max Planck Institute of Biochemistry & Technical University of Munich (TUM), Germany, 2018–present
-* **M.Sc. in Biophysics**, University of Mumbai, India, 2012–2014  
+* **Ph.D., Natural Sciences**, International Max Planck Research School Life Sciences, Max Planck Institute of Biochemistry & Technical University of Munich (TUM), Germany, 2018–present
+* **M.Sc., Biophysics**, University of Mumbai, India, 2012–2014  
   _Master’s thesis with Dr. Madhusoodan Hosur._
-* **B.Sc. in Physics**, University of Mumbai, India, 2009–2012
+* **B.Sc., Physics**, University of Mumbai, India, 2009–2012
 
 Work experience
 ======
-* **Scientist, Cryo-Electron Tomography & 4D-STEM**, Thermo Fisher Scientific, Eindhoven, The Netherlands, 2023–present
+* **Scientist, Cryo-Electron Tomography, 4D-STEM, and cryo-FIB-SEM**, Thermo Fisher Scientific, Eindhoven, The Netherlands, 2023–present
 * **Research Assistant**, Department of Molecular Biology, University of Geneva, Switzerland, 2016–2018  
   _Supported by Swiss Government Excellence Fellowship._
 * **Research Assistant**, UM-DAE Centre for Excellence in Basic Sciences, Mumbai, India, 2014–2016
