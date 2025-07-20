@@ -1,18 +1,46 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Visualizing Life with Computational Microscopy"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a computational microscopist dedicated to understanding biology at the convergence of molecular structure, cellular context, and systems dynamics. My research vision revolves around mapping the intricate choreography of biomolecules particularly RNA-protein assemblies in their native environments, leveraging advanced electron microscopy, cryo-electron tomography (cryo-ET), and integrative computational frameworks.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Currently a Scientist at Thermo Fisher Scientific, my role bridges academia and industry, driving innovation in cryo-electron tomography, multimodal electron microscopy techniques such as 4D-STEM, and computational tools for structural biology. I am transitioning towards an independent academic career, establishing the RNA Cartography Lab, a modular, collaborative, and community-oriented research platform dedicated to visualizing and understanding the mRNA lifecycle at a systems scale.
 
-A data-driven personal website
+Foundations and Early Career
 ======
+My academic journey began in physics, leading naturally into structural biology driven by a fascination for biological complexity. My early research in Mumbai combined macromolecular X-ray crystallography and molecular dynamics simulations to explore protein dynamics, DNA-protein interactions, and protein folding mechanisms. Supported by a Swiss Government Excellence Fellowship, my subsequent work at the University of Geneva focused on chromatin-associated machinery, merging biochemistry, molecular biology, X-ray crystallography, and cryo-EM.
+
+These experiences built my interdisciplinary foundations and instilled a conviction in the necessity of observing biomolecular assemblies within their native cellular contexts a realization that led me directly to cryo-electron tomography.
+
+Advancing Cryo-Electron Tomography
+------
+At the Max Planck Institute of Biochemistry, supported by an IMPRS-LS Ph.D. fellowship, I advanced the capabilities of cryo-ET through methodological and computational innovations. My work on ribosome biogenesis revealed spatial maturation gradients within the nucleolus, demonstrating the potential of quantitative subtomogram averaging. I co-developed open-source computational pipelines like TOMOMAN and STOPGAP, now widely utilized for high-resolution subtomogram averaging and classification.
+
+Building further on these computational advances, I spearheaded efforts to integrate deep learning with cryo-ET, notably through the development of cryoDRGN-ET, enabling the visualization of biomolecular dynamics directly within cells. Parallel to computational work, I optimized experimental techniques, pioneering multishot tomography for high-throughput data collection and refined cryo-FIB milling techniques, enabling unprecedented in situ resolution.
+
+Bridging Academia and Industry
+------
+Collaborations with Thermo Fisher Scientific during my doctoral studies led to significant advances in cryo-ET instrumentation, including the integration of energy filters, direct electron detectors, and novel cryo-FIB milling approaches. My subsequent formal role at Thermo Fisher has deepened my expertise in translating academic research needs into tangible technological innovations.
+
+RNA Cartography Lab and Open Science Initiatives
+======
+Driven by my experience with large-scale collaborative visual proteomics projects including pioneering community-driven datasets such as the Chlamydomonas reinhardtii visual proteomics dataset I am establishing the RNA Cartography Lab. This initiative will leverage modular, scalable, and collaborative approaches to uncover the complexity of the mRNA lifecycle, positioning itself at the intersection of computational biology, in situ structural biology, and systems biology.
+
+Teaching and Mentorship
+======
+Throughout my career, I have been deeply committed to scientific training and mentorship, teaching advanced cryo-EM methods internationally (EMBO, SPACET, Human Technopole) and actively mentoring junior scientists through workshops and practical courses. My ongoing contributions to educational initiatives such as the inaugural Rio School of CryoET further reflect my dedication to empowering the next generation of structural biologists.
+
+Looking Ahead
+======
+The unconventional path of my career bridging physics, biology, computational and technological innovation, and industry collaboration has uniquely prepared me for scientific leadership. I am committed to build dynamic research communities and continue developing enabling technologies to visualize and understand RNA life cycle at the molecular and systems scale. 
+
+
+<!--
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
@@ -54,3 +82,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
