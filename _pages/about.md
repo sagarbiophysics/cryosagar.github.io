@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational microscopist dedicated to understanding biology at the convergence of molecular structure, cellular context, and systems dynamics. My research vision revolves around mapping the intricate choreography of biomolecules particularly RNA-protein assemblies in their native environments, leveraging advanced electron microscopy, cryo-electron tomography (cryo-ET), and integrative computational frameworks.
+I am a computational microscopist exploring how molecular structure and cellular organization shape biological systems. My research focuses on decoding the mRNA life cycle as a spatially organized, structurally dynamic system, using cutting-edge methods including cellular cryo-electron tomography, advanced multimodal microscopy, and integrative computational analysis.
 
-Currently a Scientist at Thermo Fisher Scientific, my role bridges academia and industry, driving innovation in cryo-electron tomography and multimodal electron microscopy techniques such as 4D-STEM and FIB-SEM. 
+In my current role as a Scientist at Thermo Fisher Scientific, I bridge academic innovation with industry-driven technological development, advancing methodologies in cryo-electron tomography, 4D-STEM, cryoFIB-SEM, and next-generation cellular imaging.
 
-I am transitioning towards an independent academic career, establishing the RNA Cartography Lab, a modular, collaborative, and community-oriented research platform dedicated to visualizing and understanding the mRNA lifecycle at a systems scale.
+I am now transitioning to independent academic position by establishing the RNA Cartography Lab. This initiative aims to map the mRNA lifecycle directly within cells by integrating visual proteomics, high-resolution imaging, and systems-level analysis. The initiative builds upon my foundational computational and experimental innovations; including multishot tomography, cryo-FIB milling optimizations, and quantitative subtomogram averaging and classification; which enabled insights into ribosome biogenesis, translational dynamics, and spatial organization.
 
-The unconventional path of my career bridging physics, biology, computational and technological innovation, and industry collaboration has uniquely prepared me for scientific leadership. I am committed to build dynamic research communities and continue developing enabling technologies to visualize and understand RNA life cycle at the molecular and systems scale. 
+My scientific journey, spanning physics, structural biology, cell biology, computational methods, and technological innovation, uniquely prepares me for leadership in cross-disciplinary and community-driven science. I am dedicated to cultivating open and collaborative research environments, developing modular and accessible technologies, and pioneering integrative approaches to unravel the full cellular complexity of mRNA biology.
 
+<!--
 The RNA Cartography Lab
 ======
 Driven by my experience with large-scale collaborative visual proteomics projects including pioneering community-driven datasets such as the Chlamydomonas reinhardtii visual proteomics dataset I am establishing the RNA Cartography Lab. This initiative will leverage modular, scalable, and collaborative approaches to uncover the complexity of the mRNA lifecycle, positioning itself at the intersection of computational biology, in situ structural biology, and systems biology.
@@ -38,7 +39,7 @@ Building further on these computational advances, I spearheaded efforts to integ
 Bridging Academia and Industry
 ------
 Collaborations with Thermo Fisher Scientific during my doctoral studies led to significant advances in cryo-ET instrumentation, including the integration of energy filters, direct electron detectors, and novel cryo-FIB milling approaches. My subsequent formal role at Thermo Fisher has deepened my expertise in translating academic research needs into tangible technological innovations.
-
+-->
 
 
 
