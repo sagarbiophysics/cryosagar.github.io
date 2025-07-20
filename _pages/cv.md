@@ -23,25 +23,6 @@ Work experience
   _Supported by Swiss Government Excellence Fellowship._
 * **Research Assistant**, UM-DAE Centre for Excellence in Basic Sciences, Mumbai, India, 2014–2016
 
-Skills
-======
-* **Electron Microscopy Methods Development**  
-  * High-resolution TEM, tomography, and STEM via SerialEM & custom Python tools (SEPTA)  
-  * Cryo-ET preprocessing and subtomogram averaging pipelines (TOMOMAN, STOPGAP)  
-  * Cryo-FIB-SEM sample preparation; multishot tomography  
-  * 4D‑STEM integration and single-particle analysis (Relion, CryoSPARC, cisTEM)
-* **Computational Methods**  
-  * MATLAB, Python, C++; HPC environments  
-  * Subtomogram averaging (Dynamo, Warp/M, Relion 3/4/5)  
-  * X-ray crystallography data processing; MD simulations (GROMACS, NAMD)  
-  * SAXS data analysis
-* **Biochemistry & Molecular Biology**  
-  * Protein expression and purification (baculovirus, bacterial)  
-  * Negative-stain EM; nucleosome reconstitution  
-  * Electrophoretic mobility shift assays (radioactive & fluorescent)  
-  * General molecular biology techniques
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -68,3 +49,23 @@ Service and leadership
 * **Organizer**, Annual Meeting of Indian Biophysical Society & National Symposium on Frontiers of Biophysics, 2013
 * **Start-up Training**, Commission for Technology and Innovation (CTI, Switzerland), 2018 (grade 5/6)
 * **Outreach & Engagement**: Science outreach (2009–2016); participant at Millennium Youth Camp 2011 & Asian Science Camp 2010
+
+<!--
+Skills
+======
+* **Electron Microscopy Methods Development**  
+  * High-resolution TEM, tomography, and STEM via SerialEM & custom Python tools (SEPTA)  
+  * Cryo-ET preprocessing and subtomogram averaging pipelines (TOMOMAN, STOPGAP)  
+  * Cryo-FIB-SEM sample preparation; multishot tomography  
+  * 4D‑STEM integration and single-particle analysis (Relion, CryoSPARC, cisTEM)
+* **Computational Methods**  
+  * MATLAB, Python, C++; HPC environments  
+  * Subtomogram averaging (Dynamo, Warp/M, Relion 3/4/5)  
+  * X-ray crystallography data processing; MD simulations (GROMACS, NAMD)  
+  * SAXS data analysis
+* **Biochemistry & Molecular Biology**  
+  * Protein expression and purification (baculovirus, bacterial)  
+  * Negative-stain EM; nucleosome reconstitution  
+  * Electrophoretic mobility shift assays (radioactive & fluorescent)  
+  * General molecular biology techniques
+-->
