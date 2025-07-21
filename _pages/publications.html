@@ -16,44 +16,54 @@ author_profile: true
         <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.0.1.min.js" integrity="sha256-oy6Be7Eh6eiQFs5M7oXuPxxm9qbJXEtTpfSI93dW16Q=" crossorigin="anonymous"></script>                <div id="f89522a0-5fb1-4b2e-a81c-49e0671c5eca" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                window.PLOTLYENV=window.PLOTLYENV || {};                                if (document.getElementById("f89522a0-5fb1-4b2e-a81c-49e0671c5eca")) {                    Plotly.newPlot(                        "f89522a0-5fb1-4b2e-a81c-49e0671c5eca",                        [{"name":"Citations per year","x":{"dtype":"i2","bdata":"4QfiB+MH5AflB+YH5wfoB+kH"},"y":{"dtype":"i1","bdata":"AwMEAwskQXl0"},"type":"bar"},{"line":{"width":4},"marker":{"size":8},"mode":"lines+markers","name":"Cumulative citations","x":{"dtype":"i2","bdata":"4QfiB+MH5AflB+YH5wfoB+kH"},"y":{"dtype":"i2","bdata":"AwAGAAoADQAYADwAfQD2AGoB"},"type":"scatter"}],                        {"template":{"data":{"scatter":[{"type":"scatter"}]}},"xaxis":{"title":{"text":"\u003cb\u003eYear\u003c\u002fb\u003e","font":{"size":16}},"showgrid":false,"showline":true,"mirror":true,"linewidth":4,"ticks":"outside","tickfont":{"size":16}},"yaxis":{"title":{"text":"\u003cb\u003eCitations\u003c\u002fb\u003e","font":{"size":16}},"showgrid":false,"showline":true,"mirror":true,"linewidth":4,"ticks":"outside","tickfont":{"size":16}},"legend":{"font":{"size":16},"orientation":"h","yanchor":"bottom","y":1.02,"xanchor":"right","x":1},"margin":{"l":60,"r":20,"t":80,"b":50},"title":{},"paper_bgcolor":"rgba(0,0,0,0)","plot_bgcolor":"rgba(0,0,0,0)","annotations":[{"align":"left","font":{"size":32},"showarrow":false,"text":"H-index: \u003cb\u003e11\u003c\u002fb\u003e","x":0.02,"xref":"paper","y":0.98,"yref":"paper"}]},                        {"responsive": true}                    )                };            </script>        </div>
 </body>
 <style>
-  /* Transparent background */
-  .plotly-graph-div svg {
-    background: transparent !important;
-  }
+/* Ensure SVG background stays transparent */
+.plotly-graph-div svg {
+  background: transparent !important;
+}
 
-  /* Axes & ticks (you’ve already got these working) */
-  .plotly-graph-div .xtick text,
-  .plotly-graph-div .ytick text,
-  .plotly-graph-div .axis line,
-  .plotly-graph-div .axis path,
-  .plotly-graph-div .legend text,
-  .plotly-graph-div .annotation text {
-    fill: currentColor !important;
-    stroke: currentColor !important;
-  }
+/* Axis titles */
+.plotly-graph-div .xaxislayer-above .title-text,
+.plotly-graph-div .yaxislayer-above .title-text {
+  fill: currentColor !important;
+}
 
-  /* Bars */
-  .plotly-graph-div rect.bar {
-    fill: currentColor !important;
-  }
+/* Axis lines & ticks */
+.plotly-graph-div .axis line,
+.plotly-graph-div .axis path,
+.plotly-graph-div .xtick text,
+.plotly-graph-div .ytick text {
+  stroke: currentColor !important;
+  fill: currentColor !important;
+}
 
-  /* Main lines (cumulative) */
-  .plotly-graph-div .scatterlayer .lines > path {
-    stroke: currentColor !important;
-  }
+/* Bars */
+.plotly-graph-div .barlayer .bars .point {
+  fill: currentColor !important;
+}
 
-  /* Markers on that line */
-  .plotly-graph-div .scatterlayer .points .point {
-    fill: currentColor !important;
-  }
+/* Cumulative line */
+.plotly-graph-div .scatterlayer .lines path {
+  stroke: currentColor !important;
+}
 
-  /* Legend swatches (squares & lines) */
-  .plotly-graph-div .legend .traces rect,
-  .plotly-graph-div .legendpoints path {
-    fill: currentColor !important;
-    stroke: currentColor !important;
-  }
+/* Markers */
+.plotly-graph-div .scatterlayer .points path {
+  fill: currentColor !important;
+}
+
+/* Legend swatches (lines & markers) */
+.plotly-graph-div .legend .traces .legendlines path,
+.plotly-graph-div .legend .traces .legendpoints path {
+  stroke: currentColor !important;
+  fill: currentColor !important;
+}
+
+/* Legend text */
+.plotly-graph-div .legend .traces text {
+  fill: currentColor !important;
+}
 </style>
+
 
 </html>
 
