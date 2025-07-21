@@ -1,6 +1,7 @@
 ---
 title: "Conformational dynamics of Peb4 exhibit “mother’s arms” chain model: a molecular dynamics study"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-07-01-Conformational-dynamics-of-Peb4-exhibit-mothers-arms-chain-model-a-molecular-dynamics-study
 excerpt: 'Publisher: Taylor \&amp; Francis \_eprint: https://doi.org/10.1080/07391102.2016.1209131'
 date: 2017-07-01

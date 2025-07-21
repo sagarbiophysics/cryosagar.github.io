@@ -1,6 +1,7 @@
 ---
 title: "Time-dependent X-ray diffraction studies on urea/hen egg white lysozyme complexes reveal structural changes that indicate onset of denaturation"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-08-01-Time-dependent-X-ray-diffraction-studies-on-ureahen-egg-white-lysozyme-complexes-reveal-structural-changes-that-indicate-onset-of-denaturation
 excerpt: 'Publisher: Nature Publishing Group'
 date: 2016-08-01

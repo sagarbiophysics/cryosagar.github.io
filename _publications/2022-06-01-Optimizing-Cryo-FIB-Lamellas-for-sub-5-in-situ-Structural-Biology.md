@@ -1,6 +1,7 @@
 ---
 title: "Optimizing Cryo-FIB Lamellas for sub-5Å in situ Structural Biology"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-06-01-Optimizing-Cryo-FIB-Lamellas-for-sub-5-in-situ-Structural-Biology
 excerpt: 'Pages: 2022.06.16.496417 Section: New Results'
 date: 2022-06-01

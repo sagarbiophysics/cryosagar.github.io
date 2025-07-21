@@ -1,6 +1,7 @@
 ---
 title: "Structural insights into dynamics of RecU–HJ complex formation elucidates key role of NTR and stalk region toward formation of reactive state"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Structural-insights-into-dynamics-of-RecUHJ-complex-formation-elucidates-key-role-of-NTR-and-stalk-region-toward-formation-of-reactive-state
 date: 2017-01-01
 venue: 'Nucleic Acids Research'

@@ -1,6 +1,7 @@
 ---
 title: "Routine Collection of High-Resolution cryo-EM Datasets Using 200 KV Transmission Electron Microscope"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-03-01-Routine-Collection-of-High-Resolution-cryo-EM-Datasets-Using-200-KV-Transmission-Electron-Microscope
 date: 2022-03-01
 venue: 'JoVE (Journal of Visualized Experiments)'

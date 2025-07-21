@@ -1,6 +1,7 @@
 ---
 title: "Volumetric macromolecule identification in cryo-electron tomograms using capsule networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-08-01-Volumetric-macromolecule-identification-in-cryo-electron-tomograms-using-capsule-networks
 date: 2022-08-01
 venue: 'BMC Bioinformatics'
