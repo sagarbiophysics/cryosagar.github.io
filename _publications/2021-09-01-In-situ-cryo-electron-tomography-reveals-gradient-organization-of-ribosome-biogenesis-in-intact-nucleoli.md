@@ -3,7 +3,6 @@ title: "In situ cryo-electron tomography reveals gradient organization of riboso
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-01-In-situ-cryo-electron-tomography-reveals-gradient-organization-of-ribosome-biogenesis-in-intact-nucleoli
-excerpt: 'Publisher: Nature Publishing Group'
 date: 2021-09-01
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-25413-w'

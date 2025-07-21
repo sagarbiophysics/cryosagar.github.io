@@ -3,7 +3,6 @@ title: "In-cell architecture of the mitochondrial respiratory chain"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-01-In-cell-architecture-of-the-mitochondrial-respiratory-chain
-excerpt: 'Publisher: American Association for the Advancement of Science'
 date: 2025-03-01
 venue: 'Science'
 paperurl: 'https://www.science.org/doi/abs/10.1126/science.ads8738'

@@ -3,7 +3,6 @@ title: "TOMOMAN: a software package for large-scale cryo-electron tomography dat
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-01-TOMOMAN-a-software-package-for-large-scale-cryo-electron-tomography-data-preprocessing-community-data-sharing-and-collaborative-computing
-excerpt: 'Number: 6 Publisher: International Union of Crystallography'
 date: 2024-12-01
 venue: 'Journal of Applied Crystallography'
 paperurl: 'https://journals.iucr.org/j/issues/2024/06/00/ei5126/'

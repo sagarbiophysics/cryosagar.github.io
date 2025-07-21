@@ -3,7 +3,6 @@ title: "CryoDRGN-ET: deep reconstructing generative networks for visualizing dyn
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-CryoDRGN-ET-deep-reconstructing-generative-networks-for-visualizing-dynamic-biomolecules-inside-cells
-excerpt: 'Publisher: Nature Publishing Group'
 date: 2024-08-01
 venue: 'Nature Methods'
 paperurl: 'https://www.nature.com/articles/s41592-024-02340-4'

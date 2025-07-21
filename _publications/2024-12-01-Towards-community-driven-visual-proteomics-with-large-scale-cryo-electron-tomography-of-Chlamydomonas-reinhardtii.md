@@ -3,7 +3,6 @@ title: "Towards community-driven visual proteomics with large-scale cryo-electro
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-01-Towards-community-driven-visual-proteomics-with-large-scale-cryo-electron-tomography-of-Chlamydomonas-reinhardtii
-excerpt: 'Pages: 2024.12.28.630444 Section: New Results'
 date: 2024-12-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.12.28.630444v1'

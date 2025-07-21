@@ -3,7 +3,6 @@ title: "An approach for coherent periodogram averaging of tilt-series data for i
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-01-An-approach-for-coherent-periodogram-averaging-of-tilt-series-data-for-improved-contrast-transfer-function-estimation
-excerpt: '\_eprint: https://febs.onlinelibrary.wiley.com/doi/pdf/10.1002/2211-5463.70050'
 date: 2025-05-01
 venue: 'FEBS Open Bio'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/2211-5463.70050'

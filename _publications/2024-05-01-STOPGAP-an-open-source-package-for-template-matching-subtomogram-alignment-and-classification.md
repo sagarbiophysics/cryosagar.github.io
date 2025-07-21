@@ -3,7 +3,6 @@ title: "STOPGAP: an open-source package for template matching, subtomogram align
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-01-STOPGAP-an-open-source-package-for-template-matching-subtomogram-alignment-and-classification
-excerpt: 'Number: 5 Publisher: International Union of Crystallography'
 date: 2024-05-01
 venue: 'Acta Crystallographica Section D: Structural Biology'
 paperurl: 'https://journals.iucr.org/d/issues/2024/05/00/vo5015/'

@@ -3,7 +3,6 @@ title: "Sub-3 Å resolution protein structure determination by single-particle c
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-01-Sub-3-resolution-protein-structure-determination-by-single-particle-cryo-EM-at-100-keV
-excerpt: 'Pages: 2024.09.05.611417 Section: New Results'
 date: 2024-09-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.09.05.611417v1'
