@@ -1,0 +1,15 @@
+---
+title: "Imaging Biological Macromolecules in Native Environments: Is Cryo-Electron Tomography the Answer?"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-05-26-ucsf-bioengineering-cryoet
+venue: "Department of Bioengineering and Therapeutic Sciences, UCSF"
+date: 2023-05-26
+location: "San Francisco, USA"
+---
+
+Invited seminar at UCSF on the promises and challenges of using cryo-ET to study biological systems _in situ_.
+
+In recent years, cryo-ET and subsequent subtomogram averaging of large macromolecular complexes with molecular weights in the order of megadaltons have been determined at resolutions sufficient to visualize sidechains (3-5Å). These specimens have typically been suspended in vitrified ice which is 200nm or thinner. Thicker vitrified unicellular organisms and, more recently, tissues from multicellular organisms have been micromachined using cryo-focused ion beam (cryo-FIB milling) to produce electron transparent sections 200 nanometer or less in thickness; these are generally referred to as lamellae. Despite being sufficiently thin, subtomogram averages of macromolecular complexes within these cryo-FIB milled lamellae were limited to resolutions lower than 10 Å. These resolution limitations were likely due to poor lamella quality owning to ion beam damage and/or recontamination, as recent improvements in cryo-FIB hardware and protocols have enabled subtomogram averaging of macromolecular structures at sub-5Å resolutions. However, current cryo-FIB systems suffer from low throughput. A next-generation cryo-FIB, recently developed in collaboration with Thermo Fisher Scientific and Rosalind Franklin Institute, improves both lamellae quality and throughput. Combined with recent advances in automation of tilt-series data acquisition, it is now possible to collect large in situ datasets on lamellae from cells and tissues. As a proof of principle of such approaches, we are currently collaborating with Thermo Fisher Scientific to generate a large in situ cryo-ET dataset containing thousands of tomograms from C. reinhardtii. In preliminary benchmark studies, we were able to obtain ~5-7Å subtomogram averages of biomolecular complexes ranging in size from a few megadaltons to a few hundred kilodaltons. These preliminary results combined with our ongoing work establish a strong foundation to visualise a high-resolution molecular atlas (visual proteomics) of C. reinhardtii. However, subtomogram averaging approaches require tens of thousands of identical copies of any given macromolecular complex within the 3D tomographic dataset, which prevents its application in determining high-resolution structures of rare as well as flexible macromolecular complexes. This brings us to question whether cryo-electron tomography can ever realise the vision to visualise most, if not all, biomolecules in their native environments.
+
+Invitation by: [_Tushar Raskar_](https://profiles.ucsf.edu/tusharbhim.raskar) and [_James Fraser_](https://fraserlab.com)
