@@ -228,6 +228,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tools:
+    output: true
+    permalink: /:collection/:path/
+  datasets:
+    output: true
+    permalink: /:collection/:path/
+  initiatives:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -285,6 +294,33 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _tools
+  - scope:
+      path: ""
+      type: tools
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _initiatives
+  - scope:
+      path: ""
+      type: initiatives
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _datasets
+  - scope:
+      path: ""
+      type: datasets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
