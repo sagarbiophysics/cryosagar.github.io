@@ -8,4 +8,4 @@ date: 2022-08-21
 location: "Heidelberg, Germany"
 ---
 
-Instructor at the **EMBO Practical Course on Advances in Cryo-Electron Microscopy and 3D Image Processing**, teaching practical aspects of Cryo-ET workflows, including alignment, reconstruction, and subtomogram analysis.
+Instructor at the **EMBO Practical Course on Advances in Cryo-Electron Microscopy and 3D Image Processing**, teaching theory and practical aspects of Cryo-ET workflows, including alignment, reconstruction, and subtomogram analysis.
