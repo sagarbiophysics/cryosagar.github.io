@@ -9,8 +9,8 @@
 
 main:
 
-  - title: "Initiatives"
-    url: /initiatives/    
+  #- title: "Initiatives"
+  #  url: /initiatives/    
 
   - title: "Publications"
     url: /publications/
@@ -21,11 +21,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Software"
-    url: /tools/    
+  #- title: "Software"
+  #  url: /tools/    
 
-  - title: "Datasets"
-    url: /datasets/    
+  #- title: "Datasets"
+  #  url: /datasets/    
 
   - title: "CV"
     url: /cv/
