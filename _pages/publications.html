@@ -14,6 +14,46 @@ author_profile: true
     <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.0.1.min.js" integrity="sha256-oy6Be7Eh6eiQFs5M7oXuPxxm9qbJXEtTpfSI93dW16Q=" crossorigin="anonymous"></script>                <div id="fbc7cfac-14af-48f7-bb51-a11d7d92466d" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                window.PLOTLYENV=window.PLOTLYENV || {};                                if (document.getElementById("fbc7cfac-14af-48f7-bb51-a11d7d92466d")) {                    Plotly.newPlot(                        "fbc7cfac-14af-48f7-bb51-a11d7d92466d",                        [{"marker":{"color":"black"},"name":"Citations per year","x":{"dtype":"i2","bdata":"4QfiB+MH5AflB+YH5wfoB+kH"},"y":{"dtype":"i1","bdata":"AwMEAwskQXl0"},"type":"bar"},{"line":{"color":"black","width":4},"marker":{"color":"black","size":8},"mode":"lines+markers","name":"Cumulative citations","x":{"dtype":"i2","bdata":"4QfiB+MH5AflB+YH5wfoB+kH"},"y":{"dtype":"i2","bdata":"AwAGAAoADQAYADwAfQD2AGoB"},"type":"scatter"}],                        {"template":{"data":{"scatter":[{"type":"scatter"}]}},"xaxis":{"title":{"text":"\u003cb\u003eYear\u003c\u002fb\u003e","font":{"size":22}},"showgrid":false,"showline":true,"mirror":true,"linecolor":"black","linewidth":4,"ticks":"outside","tickfont":{"size":18}},"yaxis":{"title":{"text":"\u003cb\u003eCitations\u003c\u002fb\u003e","font":{"size":22}},"showgrid":false,"showline":true,"mirror":true,"linecolor":"black","linewidth":4,"ticks":"outside","tickfont":{"size":18}},"legend":{"font":{"size":18,"color":"black"},"orientation":"h","yanchor":"bottom","y":1.02,"xanchor":"right","x":1},"margin":{"l":60,"r":20,"t":80,"b":50},"title":{},"paper_bgcolor":"rgba(0,0,0,0)","plot_bgcolor":"rgba(0,0,0,0)","annotations":[{"align":"left","font":{"color":"black","size":32},"showarrow":false,"text":"H-index: \u003cb\u003e11\u003c\u002fb\u003e","x":0.02,"xref":"paper","y":0.98,"yref":"paper"}]},                        {"responsive": true}                    )                };            </script>        </div>
 </body>
+<style>
+  /* Transparent background */
+  .plotly-graph-div svg {
+    background: transparent !important;
+  }
+
+  /* Axes & ticks (you’ve already got these working) */
+  .plotly-graph-div .xtick text,
+  .plotly-graph-div .ytick text,
+  .plotly-graph-div .axis line,
+  .plotly-graph-div .axis path,
+  .plotly-graph-div .legend text,
+  .plotly-graph-div .annotation text {
+    fill: currentColor !important;
+    stroke: currentColor !important;
+  }
+
+  /* Bars */
+  .plotly-graph-div rect.bar {
+    fill: currentColor !important;
+  }
+
+  /* Main lines (cumulative) */
+  .plotly-graph-div .scatterlayer .lines > path {
+    stroke: currentColor !important;
+  }
+
+  /* Markers on that line */
+  .plotly-graph-div .scatterlayer .points .point {
+    fill: currentColor !important;
+  }
+
+  /* Legend swatches (squares & lines) */
+  .plotly-graph-div .legend .traces rect,
+  .plotly-graph-div .legendpoints path {
+    fill: currentColor !important;
+    stroke: currentColor !important;
+  }
+</style>
+
 </html>
 
 {% include base_path %}
