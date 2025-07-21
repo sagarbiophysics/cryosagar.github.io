@@ -16,6 +16,10 @@ I am now transitioning to an independent academic position by establishing the R
 My scientific journey, spanning physics, structural biology, cell biology, computational methods, and technological innovation, uniquely prepares me for leadership in cross-disciplinary and community-driven science. I am dedicated to cultivating open and collaborative research environments, developing modular and accessible technologies, and pioneering integrative approaches to unravel the full cellular complexity of mRNA biology.
 
 <!--
+Learn more about the <a href="/portfolio/initiatives/">initiatives</a>, explore our <a href="/tools/">tools</a> and <a href="/datasets/">datasets</a>, or visit our <a href="/teaching/">teaching page</a> for recent courses and mentoring activities.
+-->
+
+<!--
 The RNA Cartography Lab
 ======
 Driven by my experience with large-scale collaborative visual proteomics projects including pioneering community-driven datasets such as the Chlamydomonas reinhardtii visual proteomics dataset I am establishing the RNA Cartography Lab. This initiative will leverage modular, scalable, and collaborative approaches to uncover the complexity of the mRNA lifecycle, positioning itself at the intersection of computational biology, in situ structural biology, and systems biology.
