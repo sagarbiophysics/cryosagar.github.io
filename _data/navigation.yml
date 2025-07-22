@@ -21,8 +21,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  #- title: "Software"
-  #  url: /tools/    
+  - title: "Software"
+    url: /tools/    
 
   #- title: "Datasets"
   #  url: /datasets/    
