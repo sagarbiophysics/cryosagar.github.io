@@ -3,7 +3,7 @@ title: "TOMOMAN"
 excerpt: "TOMOMAN (Tomogram Manager) is an extensible MATLAB-based package developed to reduce the complexity of combining different packages in order to streamline cryo-ET preprocessing and subtomogram averaging workflows."
 collection: tools
 type: "Software"
-permalink: /tools/2-TOMOMAN
+permalink: /tools/1-TOMOMAN
 ---
 
 TOMOMAN (Tomogram Manager) is an extensible MATLAB-based package developed to reduce the complexity of combining different packages in order to streamline cryo-ET preprocessing and subtomogram averaging workflows.
