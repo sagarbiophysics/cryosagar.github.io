@@ -24,8 +24,8 @@ main:
   - title: "Software"
     url: /tools/    
 
-  #- title: "Datasets"
-  #  url: /datasets/    
+  - title: "Datasets"
+    url: /datasets/    
 
   - title: "CV"
     url: /cv/
