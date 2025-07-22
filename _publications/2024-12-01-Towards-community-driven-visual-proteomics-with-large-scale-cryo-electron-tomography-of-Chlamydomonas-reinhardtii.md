@@ -6,7 +6,7 @@ permalink: /publication/2024-12-01-Towards-community-driven-visual-proteomics-wi
 date: 2024-12-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.12.28.630444v1'
-citation: ' Ron Kelley,  Sagar Khavnekar,  Ricardo Righetto,  Jessica Heebner,  Martin Obr,  Xianjun Zhang,  Saikat Chakraborty,  Grigory Tagiltsev,  Alicia Michael,  Sofie Dorst,  Florent Waltz,  Caitlyn McCafferty,  Lorenz Lamm,  Simon Zufferey,  Philippe Stappen,  Hugo Hoek,  Wojciech Wietrzynski,  Pavol Harar,  William Wan,  John Briggs,  Jürgen Plitzko,  Benjamin Engel,  Abhay Kotecha, &quot;Towards community-driven visual proteomics with large-scale cryo-electron tomography of Chlamydomonas reinhardtii.&quot; bioRxiv, 2024.'
+citation: ' Ron Kelley,  <ins>Sagar Khavnekar $^{*}<ins>,  Ricardo Righetto,  Jessica Heebner,  Martin Obr,  Xianjun Zhang,  Saikat Chakraborty,  Grigory Tagiltsev,  Alicia Michael,  Sofie Dorst,  Florent Waltz,  Caitlyn McCafferty,  Lorenz Lamm,  Simon Zufferey,  Philippe Stappen,  Hugo Hoek,  Wojciech Wietrzynski,  Pavol Harar,  William Wan,  John Briggs,  Jürgen Plitzko,  Benjamin Engel,  Abhay Kotecha, &quot;Towards community-driven visual proteomics with large-scale cryo-electron tomography of Chlamydomonas reinhardtii.&quot; bioRxiv, 2024.'
 excerpt: ''
 ---
 
