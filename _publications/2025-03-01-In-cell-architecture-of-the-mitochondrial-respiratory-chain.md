@@ -6,7 +6,7 @@ permalink: /publication/2025-03-01-In-cell-architecture-of-the-mitochondrial-res
 date: 2025-03-01
 venue: 'Science'
 paperurl: 'https://www.science.org/doi/abs/10.1126/science.ads8738'
-citation: ' Florent Waltz,  Ricardo Righetto,  Lorenz Lamm,  Thalia Salinas-Giegé,  Ron Kelley,  Xianjun Zhang,  Martin Obr,  Sagar Khavnekar,  Abhay Kotecha,  Benjamin Engel, &quot;In-cell architecture of the mitochondrial respiratory chain.&quot; Science, 2025.'
+citation: ' Florent Waltz,  Ricardo Righetto,  Lorenz Lamm,  Thalia Salinas-Giegé,  Ron Kelley,  Xianjun Zhang,  Martin Obr,  __Sagar Khavnekar__,  Abhay Kotecha,  Benjamin Engel, &quot;In-cell architecture of the mitochondrial respiratory chain.&quot; Science, 2025.'
 excerpt: 'One of the very first visualisation of the respiratory chain in its native context.'
 ---
 

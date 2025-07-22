@@ -6,7 +6,7 @@ permalink: /publication/2016-08-01-Time-dependent-X-ray-diffraction-studies-on-u
 date: 2016-08-01
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/srep32277'
-citation: ' Tushar Raskar,  Sagar Khavnekar,  Madhusoodan Hosur, &quot;Time-dependent X-ray diffraction studies on urea/hen egg white lysozyme complexes reveal structural changes that indicate onset of denaturation.&quot; Scientific Reports, 2016.'
+citation: ' Tushar Raskar,  __Sagar Khavnekar__,  Madhusoodan Hosur, &quot;Time-dependent X-ray diffraction studies on urea/hen egg white lysozyme complexes reveal structural changes that indicate onset of denaturation.&quot; Scientific Reports, 2016.'
 excerpt: ''
 ---
 

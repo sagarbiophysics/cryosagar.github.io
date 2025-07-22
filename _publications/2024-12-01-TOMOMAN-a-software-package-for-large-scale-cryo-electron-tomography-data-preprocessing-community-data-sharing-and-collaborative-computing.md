@@ -6,7 +6,7 @@ permalink: /publication/2024-12-01-TOMOMAN-a-software-package-for-large-scale-cr
 date: 2024-12-01
 venue: 'Journal of Applied Crystallography'
 paperurl: 'https://journals.iucr.org/j/issues/2024/06/00/ei5126/'
-citation: ' Sagar Khavnekar,  Philipp Erdmann,  Wan Wan, &quot;TOMOMAN: a software package for large-scale cryo-electron tomography data preprocessing, community data sharing and collaborative computing.&quot; Journal of Applied Crystallography, 2024.'
+citation: ' __Sagar Khavnekar__,  Philipp Erdmann,  Wan Wan, &quot;TOMOMAN: a software package for large-scale cryo-electron tomography data preprocessing, community data sharing and collaborative computing.&quot; Journal of Applied Crystallography, 2024.'
 excerpt: ''
 ---
 
