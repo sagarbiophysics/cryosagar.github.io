@@ -8,9 +8,9 @@ tags:
   - about
 ---
 
-{% include toc %}
-
 <em>This is a reflection on my scientific journey, how a physicist turned structural biologist came to pioneer large-scale in situ visual proteomics. It traces the path, methods, and ideas that shaped my scientific approach and led to [RNAcartography](/initiatives/1-RNAcartography).
+
+{% include toc %}
 
 Early Days: Foundations in Biophysics and Structural Biology
 ----
