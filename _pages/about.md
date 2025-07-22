@@ -16,7 +16,7 @@ I am now transitioning to an independent academic position by establishing the R
 My scientific journey, spanning physics, structural biology, cell biology, computational methods, and technological innovation, uniquely prepares me for leadership in cross-disciplinary and community-driven science. I am dedicated to cultivating open and collaborative research environments, developing modular and accessible technologies, and pioneering integrative approaches to unravel the full cellular complexity of mRNA biology.
 
 
-Learn more about the <a href="/initiatives/">initiatives</a>, explore our <a href="/tools/">software tools</a> and <a href="/datasets/">open datasets</a>, or visit our <a href="/teaching/">teaching page</a> for recent courses and mentoring activities.
+Learn more about the <a href="/initiatives/">initiatives</a>, explore <a href="/tools/">software tools</a> and <a href="/datasets/">open datasets</a>, or visit the <a href="/teaching/">teaching page</a> for recent courses and mentoring activities.
 
 
 <!--
