@@ -6,7 +6,7 @@ permalink: /publication/2024-09-01-Sub-3-resolution-protein-structure-determinat
 date: 2024-09-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.09.05.611417v1'
-citation: ' Dimple Karia,  Adrian Koh,  Wen Yang,  Victoria Cushing,  Benjamin Basanta,  Daniel Mihaylov,  __Sagar Khavnekar__,  Ondřej Vyroubal,  Miloš Malínský,  Ondřej Sháněl,  Vojtěch Doležal,  Juergen Plitzko,  Lingbo Yu,  Gabriel Lander,  A. Aricescu,  Basil Greber,  Abhay Kotecha, &quot;Sub-3 Å resolution protein structure determination by single-particle cryo-EM at 100 keV.&quot; bioRxiv, 2024.'
+citation: ' Dimple Karia,  Adrian Koh,  Wen Yang,  Victoria Cushing,  Benjamin Basanta,  Daniel Mihaylov,  <strong>Sagar Khavnekar</strong>,  Ondřej Vyroubal,  Miloš Malínský,  Ondřej Sháněl,  Vojtěch Doležal,  Juergen Plitzko,  Lingbo Yu,  Gabriel Lander,  A. Aricescu,  Basil Greber,  Abhay Kotecha, &quot;Sub-3 Å resolution protein structure determination by single-particle cryo-EM at 100 keV.&quot; bioRxiv, 2024.'
 excerpt: ''
 ---
 

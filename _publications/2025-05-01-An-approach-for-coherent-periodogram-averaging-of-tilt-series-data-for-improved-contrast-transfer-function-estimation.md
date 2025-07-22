@@ -6,7 +6,7 @@ permalink: /publication/2025-05-01-An-approach-for-coherent-periodogram-averagin
 date: 2025-05-01
 venue: 'FEBS Open Bio'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/2211-5463.70050'
-citation: ' Sagar Khavnekar,  William Wan, &quot;An approach for coherent periodogram averaging of tilt-series data for improved contrast transfer function estimation.&quot; FEBS Open Bio, 2025.'
+citation: ' <strong>Sagar Khavnekar</strong>,  William Wan, &quot;An approach for coherent periodogram averaging of tilt-series data for improved contrast transfer function estimation.&quot; FEBS Open Bio, 2025.'
 excerpt: 'Describing underlying algorithms for tiltCTF method as implemented in TOMOMAN.'
 ---
 

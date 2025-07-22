@@ -6,7 +6,7 @@ permalink: /publication/2024-08-01-CryoDRGN-ET-deep-reconstructing-generative-ne
 date: 2024-08-01
 venue: 'Nature Methods'
 paperurl: 'https://www.nature.com/articles/s41592-024-02340-4'
-citation: ' Ramya Rangan,  Ryan Feathers,  __Sagar Khavnekar__,  Adam Lerer,  Jake Johnston,  Ron Kelley,  Martin Obr,  Abhay Kotecha,  Ellen Zhong, &quot;CryoDRGN-ET: deep reconstructing generative networks for visualizing dynamic biomolecules inside cells.&quot; Nature Methods, 2024.'
+citation: ' Ramya Rangan,  Ryan Feathers,  <strong>Sagar Khavnekar</strong>,  Adam Lerer,  Jake Johnston,  Ron Kelley,  Martin Obr,  Abhay Kotecha,  Ellen Zhong, &quot;CryoDRGN-ET: deep reconstructing generative networks for visualizing dynamic biomolecules inside cells.&quot; Nature Methods, 2024.'
 excerpt: ''
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2022-06-01-Optimizing-Cryo-FIB-Lamellas-for-sub-5-in-sit
 date: 2022-06-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.16.496417v1'
-citation: ' __Sagar Khavnekar__,  Veronika Vrbovská,  Magda Zaoralová,  Ron Kelley,  Florian Beck,  Sven Klumpe,  Abhay Kotecha,  Jürgen Plitzko,  Philipp Erdmann, &quot;Optimizing Cryo-FIB Lamellas for sub-5Å in situ Structural Biology.&quot; bioRxiv, 2022.'
+citation: ' <strong>Sagar Khavnekar</strong>,  Veronika Vrbovská,  Magda Zaoralová,  Ron Kelley,  Florian Beck,  Sven Klumpe,  Abhay Kotecha,  Jürgen Plitzko,  Philipp Erdmann, &quot;Optimizing Cryo-FIB Lamellas for sub-5Å in situ Structural Biology.&quot; bioRxiv, 2022.'
 excerpt: ''
 ---
 

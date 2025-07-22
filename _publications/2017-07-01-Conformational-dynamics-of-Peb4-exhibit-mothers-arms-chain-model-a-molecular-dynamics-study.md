@@ -6,7 +6,7 @@ permalink: /publication/2017-07-01-Conformational-dynamics-of-Peb4-exhibit-mothe
 date: 2017-07-01
 venue: 'Journal of Biomolecular Structure and Dynamics'
 paperurl: 'https://doi.org/10.1080/07391102.2016.1209131'
-citation: ' Sarath Dantu,  __Sagar Khavnekar__,  Avinash Kale, &quot;Conformational dynamics of Peb4 exhibit “mother’s arms” chain model: a molecular dynamics study.&quot; Journal of Biomolecular Structure and Dynamics, 2017.'
+citation: ' Sarath Dantu,  <strong>Sagar Khavnekar</strong>,  Avinash Kale, &quot;Conformational dynamics of Peb4 exhibit “mother’s arms” chain model: a molecular dynamics study.&quot; Journal of Biomolecular Structure and Dynamics, 2017.'
 excerpt: ''
 ---
 

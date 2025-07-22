@@ -6,7 +6,7 @@ permalink: /publication/2021-09-01-In-situ-cryo-electron-tomography-reveals-grad
 date: 2021-09-01
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-25413-w'
-citation: ' Philipp Erdmann,  Zhen Hou<sup>*</sup>,  Sven Klumpe<sup>*</sup>,  __Sagar Khavnekar<sup>*</sup>__,  Florian Beck,  Florian Wilfling,  Jürgen Plitzko,  Wolfgang Baumeister, &quot;In situ cryo-electron tomography reveals gradient organization of ribosome biogenesis in intact nucleoli.&quot; Nature Communications, 2021.'
+citation: ' Philipp Erdmann,  Zhen Hou<sup>*</sup>,  Sven Klumpe<sup>*</sup>,  <strong>Sagar Khavnekar<sup>*</sup></strong>,  Florian Beck,  Florian Wilfling,  Jürgen Plitzko,  Wolfgang Baumeister, &quot;In situ cryo-electron tomography reveals gradient organization of ribosome biogenesis in intact nucleoli.&quot; Nature Communications, 2021.'
 excerpt: ''
 ---
 

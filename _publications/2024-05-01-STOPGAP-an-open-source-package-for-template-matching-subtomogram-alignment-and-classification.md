@@ -6,7 +6,7 @@ permalink: /publication/2024-05-01-STOPGAP-an-open-source-package-for-template-m
 date: 2024-05-01
 venue: 'Acta Crystallographica Section D: Structural Biology'
 paperurl: 'https://journals.iucr.org/d/issues/2024/05/00/vo5015/'
-citation: ' Wan Wan,  __Sagar Khavnekar__,  Jonathan Wagner, &quot;STOPGAP: an open-source package for template matching, subtomogram alignment and classification.&quot; Acta Crystallographica Section D: Structural Biology, 2024.'
+citation: ' Wan Wan,  <strong>Sagar Khavnekar</strong>,  Jonathan Wagner, &quot;STOPGAP: an open-source package for template matching, subtomogram alignment and classification.&quot; Acta Crystallographica Section D: Structural Biology, 2024.'
 excerpt: ''
 ---
 
