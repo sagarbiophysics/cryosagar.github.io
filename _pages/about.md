@@ -20,6 +20,6 @@ My scientific journey, spanning physics, structural biology, cell biology, compu
 Curious about how I got here? Read [Tracing an Unconventional Path: My Journey in Science..._So Far_](/posts/2025/06/blog-post-biosketch/), a personal reflection on the winding path through physics, structural biology, cryo-electron tomography, and cell biology that shaped my scientific approach and led to [RNAcartography](/initiatives/1-RNAcartography).
 
 <em>
-Learn more about the <a href="/initiatives/">initiatives</a>, explore <a href="/tools/">software tools</a> and <a href="/datasets/">open datasets</a>, or visit the <a href="/teaching/">teaching page</a> for recent courses and mentoring activities.
+Learn more about the <a href="/initiatives/">initiatives</a>, explore <a href="/tools/"> methods</a> and <a href="/datasets/">open datasets</a>, or visit the <a href="/teaching/">teaching page</a> for recent courses and mentoring activities.
 
 
