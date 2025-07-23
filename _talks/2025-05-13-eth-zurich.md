@@ -1,7 +1,7 @@
 ---
 title: "Reflections on Community Driven Visual Proteomics at Scale: What Will It Take to Understand Biology with It?"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2025-05-13-eth-zurich
 venue: "Institute of Molecular Biology & Biophysics, ETH"
 date: 2025-05-13

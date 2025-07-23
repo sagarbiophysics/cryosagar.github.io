@@ -1,7 +1,7 @@
 ---
 title: "Developments in Cryo-ET: Fiddling with the Code and Instruments"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2023-10-18-ceitec-developments-cryoet
 venue: "CEITEC"
 date: 2023-10-18

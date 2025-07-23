@@ -1,7 +1,7 @@
 ---
 title: "Imaging Biological Macromolecules in Native Environments Using Cryo-Electron Tomography"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2023-03-24-fau-erlangen-cryoet
 venue: "Interdisciplinary Center for Nanostructured Films, FAU Erlangen-Nürnberg"
 date: 2023-03-24

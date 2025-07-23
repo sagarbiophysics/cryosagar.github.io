@@ -1,7 +1,7 @@
 ---
 title: "What Will It Take to Understand Biology with Cryo-Electron Tomography and Subtomogram Averaging? Moving from Breathtaking Renderings to Quantitative, Context-Aware Visual Proteomics"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2025-05-14-igbmc-cryoet
 venue: "Integrated Structural Biology Department, IGBMC"
 date: 2025-05-14

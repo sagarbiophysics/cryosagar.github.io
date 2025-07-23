@@ -5,4 +5,4 @@ collection: initiatives
 permalink: /initiatives/1-RNAcartography
 ---
 
-Stay tuned! 
+[Stay tuned!!](/talks/2025-09-14-WE-Heraeus)

@@ -1,7 +1,7 @@
 ---
 title: "Imaging Biological Macromolecules in Native Environments"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2022-12-14-nysbc-cryoet
 venue: "New York Structural Biology Center"
 date: 2022-12-14

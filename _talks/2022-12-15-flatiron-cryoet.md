@@ -1,7 +1,7 @@
 ---
 title: "Imaging Biological Macromolecules in Native Environments"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2022-12-15-flatiron-cryoet
 venue: "Centre for Computational Biology, Flatiron Institute"
 date: 2022-12-15

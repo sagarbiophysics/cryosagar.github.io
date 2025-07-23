@@ -1,7 +1,7 @@
 ---
 title: "Imaging Biological Macromolecules in Native Environments: Is Cryo-Electron Tomography the Answer?"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2023-05-26-ucsf-bioengineering-cryoet
 venue: "Department of Bioengineering and Therapeutic Sciences, UCSF"
 date: 2023-05-26
