@@ -8,7 +8,7 @@ date: 2025-09-14
 location: "Bad Honnef, Germany"
 ---
 
-Upcomming!!
+Upcoming!!
 
 Cryo-electron tomography (Cryo-ET) provides a unique window into the native architecture of cells, capturing macromolecular complexes in their native context. In our large-scale cryo-ET study of Chlamydomonas reinhardtii [[1]](/publication/2024-12-01-Towards-community-driven-visual-proteomics-with-large-scale-cryo-electron-tomography-of-Chlamydomonas-reinhardtii), we generated open-access dataset of ~1800 tomograms, yielding subnanometer resolution averages of canonical complexes such as ribosomes, rubisco, clathrin, microtubules, and nucleosomes. Additional investigations allowed us to visualize mitochondrial respiratory chain in its native context [[2]](/publication/2025-03-01-In-cell-architecture-of-the-mitochondrial-respiratory-chain). However, biologically critical RNP assemblies, for example, splicing complexes, mRNPs, or decay machinery remained underrepresented or ambiguous, despite the scale of the dataset.
 
