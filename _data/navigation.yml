@@ -28,7 +28,7 @@ main:
     url: /datasets/    
 
   - title: "Writings"
-    url: /year-archive/
+    url: /writings/
     
   - title: "CV"
     url: /cv/
