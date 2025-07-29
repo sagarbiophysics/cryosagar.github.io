@@ -5,4 +5,4 @@ collection: initiatives
 permalink: /initiatives/2-openemage
 ---
 
-Stay tuned! 
+[Stay tuned!](https://info.openemage.org) 
