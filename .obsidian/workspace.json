@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "be3e553c3d40b8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d11886b292e585e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc1990dacb4cc8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_initiatives/2-openemage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-openemage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b1439201f2f51ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca14e5fb27195e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9874ef7db2cdfa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15062c472714a4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd86595791af431c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31b8086ebaad23ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "8528d7c3724d01ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96ca810c25a2af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_initiatives/2-openemage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2-openemage"
+            }
+          },
+          {
+            "id": "34602f48c1d44134",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_initiatives/2-openemage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2-openemage"
+            }
+          },
+          {
+            "id": "958637f407791871",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1634296863190b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_initiatives/2-openemage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2-openemage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dc1990dacb4cc8e1",
+  "lastOpenFiles": [
+    "_initiatives/1-RNAcartography.md",
+    "_initiatives/2-openemage.md",
+    "_talks/2025-09-14-WE-Heraeus.md",
+    "_talks/2025-10-10-Hubrecht.md",
+    "initiatives/1-RNAcartography.md",
+    "initiatives",
+    "_talks/2025-05-14-igbmc-cryoet.md",
+    "_talks/2025-05-13-eth-zurich.md",
+    "Pasted image 20251019164944.png",
+    "_talks/2023-05-18-spacet-tomoman-stopgap.md",
+    "_talks/2023-05-08-cssb-hamburg-workflows.md",
+    "_talks/2023-03-24-fau-erlangen-cryoet.md",
+    "_talks/2021-09-01-mpib-rtseminar-cryoet.md",
+    "_talks/2022-12-14-nysbc-cryoet.md",
+    "_talks/2022-12-15-flatiron-cryoet.md",
+    "_talks/2023-05-26-ucsf-bioengineering-cryoet.md",
+    "_talks/2023-10-18-ceitec-developments-cryoet.md",
+    "_talks/2023-11-01-rio-visual-proteomics-symposium.md",
+    "talks/2025-09-14-WE-Heraeus.md",
+    "talks",
+    "_pages/sitemap.md",
+    "_pages/non-menu-page.md",
+    "_pages/cv-json.md",
+    "_pages/cv.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
+    "_pages/404.md",
+    "_portfolio/portfolio-1.md",
+    "_posts/2025-06-15-blog-post-biosketch.md"
+  ]
+}
