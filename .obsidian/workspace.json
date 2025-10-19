@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_initiatives/1-RNAcartography.md",
+                "file": "_teaching/2026-rio-cryoet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-RNAcartography"
+              "title": "2026-rio-cryoet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_initiatives/1-RNAcartography.md",
+                "file": "_teaching/2026-rio-cryoet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-RNAcartography"
+              "title": "Backlinks for 2026-rio-cryoet"
             }
           },
           {
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +165,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc1990dacb4cc8e1",
+  "active": "d96ca810c25a2af2",
   "lastOpenFiles": [
-    "_initiatives/2-openemage.md",
+    "_teaching/2017-geneva-undergrad.md",
+    "_posts/2025-06-15-blog-post-biosketch.md",
     "_initiatives/1-RNAcartography.md",
+    "_initiatives/2-openemage.md",
     "_talks/2025-09-14-WE-Heraeus.md",
     "_talks/2025-10-10-Hubrecht.md",
     "initiatives/1-RNAcartography.md",
@@ -197,8 +199,6 @@
     "_pages/cv.md",
     "_pages/archive-layout-with-content.md",
     "_pages/about.md",
-    "_pages/404.md",
-    "_portfolio/portfolio-1.md",
-    "_posts/2025-06-15-blog-post-biosketch.md"
+    "_pages/404.md"
   ]
 }
