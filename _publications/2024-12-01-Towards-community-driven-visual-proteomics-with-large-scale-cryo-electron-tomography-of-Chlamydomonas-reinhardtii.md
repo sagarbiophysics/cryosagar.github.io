@@ -3,8 +3,8 @@ title: "Towards community-driven visual proteomics with large-scale cryo-electro
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-01-Towards-community-driven-visual-proteomics-with-large-scale-cryo-electron-tomography-of-Chlamydomonas-reinhardtii
-date: 2024-12-01
-venue: 'bioRxiv'
+date: 2026-01-08
+venue: 'Molecular Cell'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.12.28.630444v1'
 citation: ' Ron Kelley<sup>*</sup>,  <strong>Sagar Khavnekar<sup>*</sup></strong>,  Ricardo Righetto<sup>*</sup>,  Jessica Heebner<sup>*</sup>,  Martin Obr<sup>*</sup>,  Xianjun Zhang<sup>*</sup>,  Saikat Chakraborty<sup>*</sup>,  Grigory Tagiltsev<sup>*</sup>,  Alicia Michael<sup>*</sup>,  Sofie Dorst<sup>*</sup>,  Florent Waltz,  Caitlyn McCafferty,  Lorenz Lamm,  Simon Zufferey,  Philippe Stappen,  Hugo Hoek,  Wojciech Wietrzynski,  Pavol Harar,  William Wan,  John Briggs,  Jürgen Plitzko,  Benjamin Engel,  Abhay Kotecha, &quot;Towards community-driven visual proteomics with large-scale cryo-electron tomography of Chlamydomonas reinhardtii.&quot; bioRxiv, 2024.'
 excerpt: ''

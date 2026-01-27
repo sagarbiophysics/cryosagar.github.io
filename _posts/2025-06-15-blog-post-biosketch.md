@@ -8,7 +8,7 @@ tags:
   - about
 ---
 
-<em>This is a reflection on my scientific journey, how a physicist turned structural biologist came to pioneer large-scale in situ visual proteomics. It traces the path, methods, and ideas that shaped my scientific approach and led to [RNAcartography](/initiatives/1-RNAcartography).
+<em>This is a reflection on my scientific journey, how a physicist turned structural biologist came to pioneer large-scale in situ visual proteomics. It traces the path, methods, and ideas that shaped my scientific approach and led to [OPENEMAGE](/initiatives/1-openemage).
 
 
 {% include toc %}
@@ -46,7 +46,7 @@ Throughout my career, teaching and mentorship have been natural extensions of my
 
 Within my host institutions, I have prioritized mentoring junior scientists by organizing regular in-house cryo-ET workshops during my Ph.D. and training new researchers in advanced cryo-ET techniques and computational analysis at Thermo Fisher. I have also taken on leadership roles beyond the lab, such as serving on organizing committees for student retreats and symposia, and engaging in science outreach. These experiences have strengthened my ability to communicate and lead, preparing me to cultivate a culture of learning in my own lab.
 
-Towards Independence
+Towards OPENEMAGE
 ----
 My scientific path has been far from linear. This breadth of experience has fostered a deep scientific maturity, strong leadership skills, and an innovative mindset that prepare me well to establish and lead my own research group. I have grown from a student captivated by molecular structures into a scientist who develops tools, drives large-scale collaborations to understand biology at a systems level. 
 
@@ -58,4 +58,4 @@ _Epilogue_
 As I reflect on this journey, I’m reminded that a scientific path need not follow a straight line to have an impact. Mine has been shaped by curiosity, collaboration, and conviction more than by convention. What holds it all together is not a tidy structure, but a clear and evolving vision; one that bridges disciplines, adapts to new challenges, and seeks to understand RNA biology in its native context.
 
 <em>
-I share this as encouragement for those navigating nonlinear or unconventional routes in science, your story matters. Coherence can emerge from vision, resilience, and the courage to build something new. If this reflection resonates, I hope it inspires you to explore bold questions, take creative risks, and carve your own paths, just as I continue to carve mine through [RNAcartography](/initiatives/1-RNAcartography) and [beyond](/initiatives/2-openemage).
+I share this as encouragement for those navigating nonlinear or unconventional routes in science, your story matters. Coherence can emerge from vision, resilience, and the courage to build something new. If this reflection resonates, I hope it inspires you to explore bold questions, take creative risks, and carve your own paths, just as I continue to carve mine through [RNAcartography](/initiatives/1-openemage) and [beyond](/initiatives/2-RNAcartography).
