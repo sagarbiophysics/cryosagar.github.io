@@ -11,24 +11,27 @@ redirect_from:
 {% include base_path %}
 -->
 
-Education
-======
-* **Ph.D., Natural Sciences**, International Max Planck Research School Life Sciences, Max Planck Institute of Biochemistry & Technical University of Munich (TUM), Germany, 2018–present
-* **M.Sc., Biophysics**, University of Mumbai, India, 2012–2014  
-  _Master’s thesis with Dr. Madhusoodan Hosur._
-* **B.Sc., Physics**, University of Mumbai, India, 2009–2012
-
 Research experience
 ======
 * **Scientist, Cryo-Electron Tomography, 4D-STEM, and cryo-FIB-SEM**, Thermo Fisher Scientific, Eindhoven, The Netherlands, 2023–present
-* **Graduate Researcher**, Department of Molecular Structural Biology & Cryo-EM Technology Group, Max Planck Institute of Biochemistry, Martinsried, Germany, 2018–2023  
+* **Research Assistant**, Department of Molecular Structural Biology & Cryo-EM Technology Group, Max Planck Institute of Biochemistry, Martinsried, Germany, 2018–2023  
 * **Research Assistant**, Department of Molecular Biology, University of Geneva, Switzerland, 2016–2018  
   _Supported by Swiss Government Excellence Fellowship._
 * **Research Assistant**, UM-DAE Centre for Excellence in Basic Sciences, Mumbai, India, 2014–2016
+* **Research Intern**, ACTREC, Navi Mumbai, India, 2013–2014
+
+Service and leadership
+======
+* **Reviewer**, Springer Nature
+* **Editor**, IMPRS-LS Newsletter, Max Planck Institute of Biochemistry, 2018–2020
+* **Start-up Training**, Commission for Technology and Innovation (CTI, Switzerland), 2018 (grade 5/6)
+* **Organizer**, PhD Retreat, University of Geneva Life Sciences Program, 2018
+* **Organizer**, Annual Meeting of Indian Biophysical Society & National Symposium on Frontiers of Biophysics, 2013
+* **Outreach & Engagement**: Science outreach for Astronomy (2009–2016);
 
 Publications
 ======
-You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=KYEJ7WkAAAAJ)
+You can find complete list of my publications on [Google Scholar](https://scholar.google.com/citations?user=KYEJ7WkAAAAJ)
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -48,15 +51,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
-Service and leadership
+Education
 ======
-* **Reviewer**, Springer Nature
-* **Editorial Member**, IMPRS-LS Newsletter, Max Planck Institute of Biochemistry, 2018–2020
-* **Organizer**, PhD Retreat, University of Geneva Life Sciences Program
-* **Organizer**, Annual Meeting of Indian Biophysical Society & National Symposium on Frontiers of Biophysics, 2013
-* **Start-up Training**, Commission for Technology and Innovation (CTI, Switzerland), 2018 (grade 5/6)
-* **Outreach & Engagement**: Science outreach (2009–2016); participant at Millennium Youth Camp 2011 & Asian Science Camp 2010
+* **Ph.D. Candidate, Natural Sciences**, International Max Planck Research School Life Sciences, Max Planck Institute of Biochemistry & Technical University of Munich (TUM), Germany, 2018–present
+* **M.Sc., Biophysics**, University of Mumbai, India, 2012–2014  
+  _Master’s thesis with Dr. Madhusoodan Hosur._
+* **B.Sc., Physics**, University of Mumbai, India, 2009–2012
+
 
 <!--
 Skills
