@@ -15,7 +15,7 @@ My work has led to several high-impact biological discoveries, including the in-
 
 I am also committed to mentoring and teaching, with extensive experience instructing at an EMBO practical course and several others. 
 
-Altogether, I bring unique cross-disciplinary and cross-sectoral expertise with an established, long-standing network of leading academic and industry collaborations. Curious about how I got here? Read [Tracing an Unconventional Path: My Journey in Science..._So Far_](/posts/2025/06/blog-post-biosketch/), a personal reflection on the winding path through physics, structural biology, cryo-electron tomography, and structural systems biology at scale leading to [OPENEMAGE](/initiatives/1-openemage).
+Altogether, I bring unique cross-disciplinary and cross-sectoral expertise with an established, long-standing network of leading academic and industry collaborations. Curious about how I got here? Read [Tracing an Unconventional Path: My Journey in Science..._So Far_](/posts/2025/06/blog-post-biosketch/), a personal reflection on the winding path through physics, structural biology, cryo-electron tomography, and structural systems biology at scale leading to [Subspatial](/initiatives/1-subspatial).
 
 <em>
 Learn more about the <a href="/initiatives/">initiatives</a>, explore <a href="/tools/"> methods</a> and <a href="/datasets/">open datasets</a>, or visit the <a href="/teaching/">teaching page</a> for recent courses and mentoring activities.

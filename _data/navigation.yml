@@ -9,8 +9,8 @@
 
 main:
 
-  #- title: "Initiatives"
-  #  url: /initiatives/    
+  - title: "Initiatives"
+    url: /initiatives/    
 
   - title: "Publications"
     url: /publications/
