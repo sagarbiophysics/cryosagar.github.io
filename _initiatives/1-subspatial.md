@@ -1,6 +1,6 @@
 ---
 title: "Subspatial"
-excerpt: "Coming soon..."
+excerpt: "Building Foundational Subcellular Spatial Intelligence"
 collection: initiatives
 permalink: /initiatives/1-subspatial
 ---

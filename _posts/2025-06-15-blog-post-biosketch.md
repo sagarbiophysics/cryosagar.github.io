@@ -52,7 +52,7 @@ My scientific path has been far from linear. This breadth of experience has fost
 
 My diverse contributions from impactful peer-reviewed studies to leading multi-institution projects, developing open-source software, and creating community data resources reflect a combination of technical depth across advanced experimental and computational methods, interdisciplinary agility, and a sustained commitment to open, team-driven science. Along the way, my work has also earned broad peer recognition. I have been invited to present at leading institutes, at international conferences, and at specialized cryo-ET workshops, which underscore my standing in the field. Far from a drawback, the unconventional nature of my journey has been a key strength, equipping me to adapt and innovate at each step. Each step has been anchored in the belief that data and new tools make new biology possible. 
 
- Building on this foundation, I am launching [Subspatial](/initiatives/1-subspatial) (an independent research organization) to generate foundational subcellular spatial intelligence powered by subcellular  spatial biology open data across multiple modalities with the goal of enabling AI virtual cell models in near future. [Stay tuned!](https://subspatial.org)
+ Building on this foundation, I am launching [Subspatial](/initiatives/1-subspatial) (a focused research organization, FRO) to generate foundational subcellular spatial intelligence powered by subcellular  spatial biology open data across multiple modalities with the goal of enabling AI virtual cell models in near future. [Stay tuned!](https://subspatial.org)
 
 _Epilogue_
 ----
