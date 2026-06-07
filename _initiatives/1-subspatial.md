@@ -1,5 +1,5 @@
 ---
-title: "@openemage"
+title: "Subspatial"
 excerpt: "Coming soon..."
 collection: initiatives
 permalink: /initiatives/1-subspatial
