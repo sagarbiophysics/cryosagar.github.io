@@ -13,7 +13,8 @@ redirect_from:
 
 Research experience
 ======
-* **Scientist, Cryo-Electron Tomography, 4D-STEM, and cryo-FIB-SEM**, Thermo Fisher Scientific, Eindhoven, The Netherlands, 2023–present
+* **Co-founder**, Subspatial, The Netherlands, 2026–present
+* **Scientist, Cryo-Electron Tomography, 4D-STEM, and cryo-FIB-SEM**, Thermo Fisher Scientific, Eindhoven, The Netherlands, 2023–2026
 * **Research Assistant**, Department of Molecular Structural Biology & Cryo-EM Technology Group, Max Planck Institute of Biochemistry, Martinsried, Germany, 2018–2023  
 * **Research Assistant**, Department of Molecular Biology, University of Geneva, Switzerland, 2016–2018  
   _Supported by Swiss Government Excellence Fellowship._
